@@ -41,3 +41,17 @@ Função de teste, que permite o usuário checar a codificação e decodificaç�
 3. Alice1.txt
 
 Ao escolher, o programa printará o texto, sua codificação em binário e a tradução dessa codificação no terminal.
+
+## 🚀 Execução
+
+Para executar a função principal do projeto, basta rodar o comando:
+
+```console
+python3 main.py 
+```
+
+Já para executar os testes, basta rodar o comando:
+
+```console
+python3 test.py
+```
