@@ -32,6 +32,8 @@ Nela, você pode escolher entre duas opções:
 
 Dentro dessas ações, tanto os arquivos a serem lidos quanto os arquivos a serem escritos são determinados pelo usuário.
 
+Ao digitar o nome do arquivo, precisa-se colocar a extensão (.txt para textos decodificados e .huf para textos codificados). Além disso, todos os arquivos a serem lidos e escritos estarão dentro da pasta ```/docs``` do repositório.
+
 ### _test.py_
 
 Função de teste, que permite o usuário checar a codificação e decodificação da mensagem sem escrever ela em nenhum arquivo. Nela, você pode escolher entre três mensagens:
